@@ -92,4 +92,4 @@
 
 - [MYSQL](https://www.youtube.com/watch?v=WmGgxTpGs_8)
 
-- [MYSQL Doc](data/MySQL%20Handbook.pdf)
+- [MYSQL Doc](./Data/MySQL%20Handbook.pdf)

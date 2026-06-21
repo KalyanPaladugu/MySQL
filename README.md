@@ -90,5 +90,6 @@
 
 + Referance Link
 
-[MYSQL](https://www.youtube.com/watch?v=WmGgxTpGs_8)
-[MYSQL](data/MySQL%20Handbook.pdf)
+- [MYSQL](https://www.youtube.com/watch?v=WmGgxTpGs_8)
+
+- [MYSQL Doc](data/MySQL%20Handbook.pdf)
